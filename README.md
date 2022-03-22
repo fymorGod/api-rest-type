@@ -35,8 +35,7 @@
 
         - yarn add @types/express @types/nodemon ts-node-dev typescript -D
         - yarn add ts-node
-
-## Criando scripts 
+  ## Criando scripts 
 
         - "scripts": {
                 "dev": "ts-node-dev --transpile-only src/server.ts",
